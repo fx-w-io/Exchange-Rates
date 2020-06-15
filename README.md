@@ -1,4 +1,4 @@
-# Exchange Rates
+# 💲 Exchange Rates
 
 List of Exchange Rates with indicators of change rates for 24 hours.
 
